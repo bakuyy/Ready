@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+*{
+  font-family: 'Sora', sens-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(100deg, rgb(23, 243, 251)0%, rgb(116, 99, 211)100%);
+}
+
+

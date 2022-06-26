@@ -1,0 +1,26 @@
+.title {
+    text-align: center;
+}
+
+.slogan {
+    padding-top: 20px;
+    text-align: center;
+
+}
+
+.problem {
+    padding-top: 80px;
+    width: 1000px;
+}
+
+.solution {
+    padding-top: 100px;
+    width: 1200px;
+
+}
+
+.earth {
+    padding-top: 40px;
+    opacity: 90;
+    transition: opacity 230ms ease-in-out
+}

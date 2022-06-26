@@ -1,0 +1,23 @@
+.title {
+    text-align: left;
+    padding-top: 80px;
+    padding-left: 80px;
+    padding-right: 20px;
+    line-height: 2;
+    color: #030042;
+}
+
+.instructions {
+    padding-top: 10px;
+    text-align: center;
+    width: 80vwvw;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #030042;
+}
+
+.food {
+    justify-content: center;
+    display: flex;
+    padding-top: 50px;
+}
